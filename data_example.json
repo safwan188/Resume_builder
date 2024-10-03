@@ -1,0 +1,122 @@
+{
+    "name": "John Doe",
+    "contact": {
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890",
+      "linkedin": "https://www.linkedin.com/in/johndoe/",
+      "github": "https://github.com/johndoe"
+    },
+    "summary": "Computer science graduate with strong expertise in software development, AI, and machine learning. Skilled in building scalable web and mobile applications using modern frameworks like React, React Native, and backend technologies like C# .NET SQL and Node JS. Experienced in applying cutting-edge AI and ML techniques to solve complex problems, particularly in natural language processing and computer vision.",
+    "education": [
+      {
+        "level": "Bachelor of Science",
+        "institution": "Tech University",
+        "field": "Computer Science",
+        "duration": "2018 - 2022",
+        "score": "85"
+      }
+    ],
+    "skills": {
+      "Programming Languages": [
+        "Python", 
+        "C/C++", 
+        "Java", 
+        "R", 
+        "JavaScript", 
+        "Bash", 
+        "PHP"
+      ],
+      "Frameworks and Libraries": [
+        "React-MUI", 
+        "Node.js", 
+        "ASP.NET", 
+        "React Native", 
+        "Flutter", 
+        "TensorFlow/Keras", 
+        "Torch", 
+        "Transformers", 
+        "Hugging Face", 
+        "OpenCV"
+      ],
+      "Databases": [
+        "SQL", 
+        "MongoDB", 
+        "Firebase"
+      ],
+      "DevOps and Tools": [
+        "Git", 
+        "Cpanel", 
+        "Heroku", 
+        "Swagger", 
+        "Linux", 
+        "Jupyter Notebook"
+      ]
+    },
+    "work_experience": [
+      {
+        "job_role": ".NET Software Developer",
+        "company_name": "TechStartup Inc.",
+        "description": "Developed and integrated new product features, enhancing site performance by 40%. Implemented REST APIs using C# .NET and SQL. Collaborated in an Agile environment with Jira, Git, and Swagger for efficient project management.",
+        "duration": "2021 - 2022"
+      },
+      {
+        "job_role": "Academic Tutor",
+        "company_name": "Tech University",
+        "description": "Provided tutoring services to students in software development, algorithms, object-oriented programming, and mathematics courses.",
+        "duration": "2020 - 2022"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommender",
+        "description": "Developed a React Native app to recommend movies based on user preferences. Integrated OpenAI CLIP and Google Cloud Vision for video analysis, achieving 88% accuracy on a dataset of 2,000 movies. Used Firebase for user management and real-time data storage.",
+        "github_link": "https://github.com/johndoe/MovieRecommender"
+      },
+      {
+        "name": "AI Text Generator",
+        "description": "Built an AI-powered text generation system using PyTorch transformers. The model was fine-tuned for English and Spanish text generation tasks, producing high-quality results based on contextual input.",
+        "github_link": "https://github.com/johndoe/AI-Text-Generator"
+      },
+      {
+        "name": "NLP Model Comparison",
+        "description": "Conducted a comparative study of LLMs (GPT-3, T5, and BERT) for tasks such as text classification and sentiment analysis. Evaluated model performance using datasets across various industries, leading to insights about model accuracy and efficiency.",
+        "github_link": "https://github.com/johndoe/NLP-Model-Comparison"
+      },
+      {
+        "name": "Home Inspection Workflow",
+        "description": "Developed a mobile and web-based home inspection workflow system using React, Node.js, and React Native. Integrated with Firebase and deployed on Heroku for scalable cloud-based data management.",
+        "github_link": "https://github.com/johndoe/Home-Inspection-Workflow"
+      },
+      {
+        "name": "POS Tagger and NER System",
+        "description": "Created a POS tagging and Named Entity Recognition system using deep learning models with custom embeddings. Trained on large corpora using CNN-based architectures, improving tagging accuracy by 15%.",
+        "github_link": "https://github.com/johndoe/POS-NER-System"
+      },
+      {
+        "name": "Contextualized Embeddings for NLP",
+        "description": "Developed NLP models using contextualized word embeddings from RoBERTa and Word2Vec. Achieved high performance for tasks such as text classification and part-of-speech tagging with a top 5% class ranking.",
+        "github_link": "https://github.com/johndoe/Contextualized-Embeddings-NLP"
+      },
+      {
+        "name": "E-Commerce Flower Shop",
+        "description": "Built a full-stack e-commerce platform using React and Material-UI. The app supports user registration, product listings, and a checkout process, with Firebase handling the backend.",
+        "github_link": "https://github.com/johndoe/FlowerShop"
+      },
+      {
+        "name": "Facial Emotion Detector",
+        "description": "Developed a facial emotion detection system using TensorFlow/Keras. The system classifies facial expressions in real-time using OpenCV, achieving an accuracy of 92% in a live setting.",
+        "github_link": "https://github.com/johndoe/Facial-Emotion-Detector"
+      },
+      {
+        "name": "SQL Injection Vulnerability Project",
+        "description": "Demonstrated SQL injection vulnerabilities through a multi-step project, including bypassing login authentication, extracting server information, and retrieving hidden database tables. Crafted SQL payloads to expose security flaws.",
+        "github_link": "https://github.com/johndoe/SQL-Injection-Vulnerability"
+      }
+    ],
+    "languages": [
+      "English (Fluent)",
+      "French (Native)",
+      "Spanish (Fluent)"
+    ]
+  }
+  
