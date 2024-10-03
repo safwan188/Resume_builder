@@ -1,4 +1,4 @@
-# Resume Generator - README
+# Resume Builder - README
 
 ## Overview
 This project provides a tool to automatically generate a professional resume in PDF format using Markdown as the intermediate format. The program allows users to input their resume data in a structured JSON format and generates a beautifully formatted resume PDF using an online Markdown-to-PDF converter.
